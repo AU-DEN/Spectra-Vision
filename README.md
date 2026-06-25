@@ -15,3 +15,6 @@ An AI-powered hyperspectral image analysis toolkit for detecting crop diseases, 
 - Heatmap generation
 - Batch inference
 - Interactive visualization
+
+# Status
+Work in progress
